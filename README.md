@@ -41,7 +41,7 @@ Informatics & Computer Science student. Passionate about leveraging software, da
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
+- 💼 **Professional Network:** https://www.linkedin.com/in/eugene-odhiambo-36a1592b1/
 - 📧 **Direct Contact:** [Your email address or professional contact point]
 
 <p align="center">
