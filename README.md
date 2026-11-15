@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10091C,100:203A43&height=180&section=header&text=Eugene%20Onyango%20Odhiambo&fontSize=35&fontColor=C4FF8C&fontAlignY=40&desc=Software%20Development%20%7C%20AI%20%26%20Data%20%7C%20Applied%20Computing&descSize=15&descAlignY=67" alt="Eugene Onyango Odhiambo — Software Development, AI and Applied Computing" width="100%" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=EUGENE+ONYANGO+ODHIAMBO&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 
   <br/>
 
