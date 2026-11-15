@@ -5,33 +5,14 @@
      ========================================================= -->
 
 <div align="center">
-
-  <!-- ANIMATED RETRO DEVELOPER BANNER -->
-
-  <img
-    src="./retro-tetris-developer-banner.gif"
-    alt="Eugene Onyango Odhiambo — Software Development, AI, Data and Applied Computing"
-    width="100%"
-  />
-
+  <img src="./retro-tetris-developer-banner.gif" alt="Eugene Onyango Odhiambo — Developer Portfolio" width="100%"/>
   <br/>
-  <br/>
-
-  <!-- PROFESSIONAL LINKS -->
-
-  <a href="https://www.linkedin.com/in/eugene-odhiambo-36a1592b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://eugene-odhiambo.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-B89AF5?style=for-the-badge&logo=vercel&logoColor=111111" alt="Personal Portfolio"/>
-  </a>
-
-  <a href="mailto:Eugene.Odhiambo1604@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-C4FF8C?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email"/>
-  </a>
-
+  <a href="https://www.linkedin.com/in/eugene-odhiambo-36a1592b1/"><img src="./linkedin.svg" alt="LinkedIn" height="38"/></a>
+  <a href="https://eugene-odhiambo.vercel.app"><img src="./portfolio.svg" alt="Personal Portfolio" height="38"/></a>
+  <a href="mailto:Eugene.Odhiambo1604@gmail.com"><img src="./contact.svg" alt="Email" height="38"/></a>
 </div>
+
+---
 
 ---
 
