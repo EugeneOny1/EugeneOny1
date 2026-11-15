@@ -1,4 +1,3 @@
-
 <!-- =========================================================
      EUGENE ONYANGO ODHIAMBO
      GitHub Developer Profile
@@ -7,9 +6,18 @@
 
 <div align="center">
 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=EUGENE+ONYANGO+ODHIAMBO&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <!-- ANIMATED RETRO DEVELOPER BANNER -->
+
+  <img
+    src="./retro-tetris-developer-banner.gif"
+    alt="Eugene Onyango Odhiambo — Software Development, AI, Data and Applied Computing"
+    width="100%"
+  />
 
   <br/>
+  <br/>
+
+  <!-- PROFESSIONAL LINKS -->
 
   <a href="https://www.linkedin.com/in/eugene-odhiambo-36a1592b1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
